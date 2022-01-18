@@ -1,0 +1,19 @@
+openworkfoundation.net	Domain Registration	1	SUCCESS	$10.56
+opennetworkfoundation.org	Domain Registration	1	SUCCESS	$7.63
+opennetworkfoundation.com	Domain Registration	1	SUCCESS	$9.13
+opennetwork.foundation	Domain Registration	1	SUCCESS	$6.87
+TOTAL CHARGED:				$34.19
+
+opennetworkfoundation.net	Domain Registration	1	SUCCESS	$10.56
+TOTAL CHARGED:				$10.56
+
+on.wiki	146.09
+TOTAL	146.09
+
+
+All Domains:
+146.09+34.19+10.56-10.56=180.28
+
+
+LOAN:
+Ian loaned Ben $180 on 1/17/2022 on CashApp!
